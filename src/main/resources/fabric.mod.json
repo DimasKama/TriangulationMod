@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "triangulationmod",
+  "version": "${version}",
+  "name": "TriangulationMod",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/Mynam/TriangulationMod"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/triangulationmod/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dimaskama.triangulationmod.client.TriangulationModClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

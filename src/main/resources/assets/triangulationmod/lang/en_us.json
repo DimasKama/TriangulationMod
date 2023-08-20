@@ -1,0 +1,15 @@
+{
+  "triangulationmod": "Triangulation mod",
+  "key.change_mode": "Change Line drafting mode",
+  "key.new_line1": "Set line №1",
+  "key.new_line2": "Set line №2",
+  "hud.line": "Line №%s:",
+  "hud.point1": "Point №1: %s",
+  "hud.point2": "Point №2: Not defined",
+  "mode_changed_2points": "Line defining mode changed to: 2 Points",
+  "mode_changed_look_dir": "Line defining mode changed to: Look Direction",
+  "defined_line": "Defined Line №%s",
+  "please_mark_2nd_point": "Please, mark 2nd point to complete defining Line №%s",
+  "point_out_of_world": "Point is out of world",
+  "point_found": "Point found on %s\n(%s blocks away)"
+}
