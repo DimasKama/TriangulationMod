@@ -3,10 +3,12 @@
   "id": "triangulationmod",
   "version": "${version}",
   "name": "TriangulationMod",
-  "description": "",
-  "authors": [],
+  "description": "A little mod to help calculating x/z coordinates by 2 lines",
+  "authors": [
+    "DimasKama"
+  ],
   "contact": {
-    "repo": "https://github.com/Mynam/TriangulationMod"
+    "sources": "https://github.com/DimasKama/TriangulationMod"
   },
   "license": "MIT",
   "icon": "assets/triangulationmod/icon.png",
